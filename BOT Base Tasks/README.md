@@ -4,7 +4,7 @@
 * Accept the values from user  
 * Pass to function and then use formlua  
 
-##### TINKER CAD LINK(ONLY 2 MOTOR MOVEMENTS)  
+##### TINKER CAD LINK  
 https://www.tinkercad.com/things/1IpIEvSBvyo-powerful-amberis-turing/editel?sharecode=co4rYgdJLZjw2-ea4QPwSP_wSUe7s98DO7gwFBoKP-E
 
 # CIRCUIT

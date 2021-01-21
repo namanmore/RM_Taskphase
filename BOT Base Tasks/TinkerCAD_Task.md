@@ -4,7 +4,8 @@
 
 
 # CODE  
-``` int M1_P1=9,M1_P2=10,M2_P1=5,M2_P2=6,n;
+``` 
+int M1_P1=9,M1_P2=10,M2_P1=5,M2_P2=6,n;
 void setup()
 {
   pinMode(M1_P1, OUTPUT);

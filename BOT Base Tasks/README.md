@@ -1,3 +1,8 @@
+# TINKER CAD LINK  
+https://www.tinkercad.com/things/1IpIEvSBvyo-powerful-amberis-turing/editel?sharecode=co4rYgdJLZjw2-ea4QPwSP_wSUe7s98DO7gwFBoKP-E
+
+
+
 # CIRCUIT
 ![](https://github.com/namanmore/RM_Taskphase/blob/main/BOT%20Base%20Tasks/two_motors.PNG)  
 
@@ -21,16 +26,7 @@ void setup()
   Serial.println("r for Rotate Right/Clockwise");
   Serial.println("l for Rotate Left/Counter-Clockwise");
 }
-void cal()
-{
-  Serial.println("Press :-");
-  Serial.println("F for Forward");
-  Serial.println("B for Backward");
-  Serial.println("R for Right Turn");
-  Serial.println("L for Left Turn");
-  Serial.println("r for Rotate Right/Clockwise");
-  Serial.println("l for Rotate Left/Counter-Clockwise");
-}
+
 void forward()
 {
   digitalWrite(M1_P1, LOW);
@@ -83,22 +79,16 @@ void loop()
      switch(n)
      {
        case 70:
-        cal();
        forward();break;
        case 66:
-        cal();
        backward();break;
        case 82:
-       cal();
        right_turn();break;
        case 76:
-        cal();
        left_turn();break;
        case 114:
-        cal();
        rotate_right();break;
        case 108:
-        cal();
        rotate_left();break;
        default:
        Serial.println("Invalid Choice");

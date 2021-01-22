@@ -1,0 +1,19 @@
+int ir=4,led=13,val=0;;
+void setup()
+{
+  pinMode(led, OUTPUT);
+  pinMode(ir, INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  val=digitalRead(ir);
+  if(val== HIGH)
+  {
+  digitalWrite(led, HIGH);
+   Serial.println("Object Detected");
+  }
+  else
+  digitalWrite(led, LOW); 
+}

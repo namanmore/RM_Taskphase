@@ -4,10 +4,8 @@
 * Accept the values from user  
 * Pass to function and then use formlua  
 
-##### TINKER CAD LINK  
+# CIRCUIT AND LINK  
 https://www.tinkercad.com/things/1IpIEvSBvyo-powerful-amberis-turing/editel?sharecode=co4rYgdJLZjw2-ea4QPwSP_wSUe7s98DO7gwFBoKP-E
-
-# CIRCUIT
 ![](https://github.com/namanmore/RM_Taskphase/blob/main/BOT%20Base%20Tasks/two_motors.PNG)  
 
 # CODE  

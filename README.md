@@ -1,4 +1,6 @@
-# RM_Taskphase
+# RM_Taskphase  
+
+  
 
 ## Progress Reports  
   
@@ -36,11 +38,18 @@
 
   * [Holonomic Drive Cpp Program](https://github.com/namanmore/RM_Taskphase/blob/main/BOT%20Base%20Tasks/Bot_Move.cpp)  
 
-  * [2 Wheel Differential Task For (forward,back,left turn,left rotation,right turn, right rotation)](https://github.com/namanmore/RM_Taskphase/blob/main/TinkerCAD_Works/Motor_CommandMovements.md)  
+  * [2 Wheel Differential Drive Task For (Forward, Back, Left Turn, Left Rotation, Right Turn, Right Rotation)](https://github.com/namanmore/RM_Taskphase/blob/main/TinkerCAD_Works/Motor_CommandMovements.md)  
 
+## C++ Learning Phase Programs  
 
+  * [1st Set: Arrays 1D & 2D](https://github.com/namanmore/RM_Taskphase/tree/main/Weekly_CPP_Programs/Week1_Programs)  
 
+  * [2nd Set: Functions & Pointers](https://github.com/namanmore/RM_Taskphase/tree/main/Weekly_CPP_Programs/Week2_Programs)  
+
+  * [3rd Set: Recursion](https://github.com/namanmore/RM_Taskphase/tree/main/Weekly_CPP_Programs/Week3_Programs)  
 
 ## COURSES COMPLETED  
-* [Arduino & C Programming](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/Arduino%20%26%20C%20Programming(Uni%20of%20Cal%2CIrvine).pdf)  
-* [MATLAB OnRamp](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/MATLAB%20Onramp(Mathworks).pdf)  
+
+  * [Arduino & C Programming](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/Arduino%20%26%20C%20Programming(Uni%20of%20Cal%2CIrvine).pdf)  
+  
+  * [MATLAB OnRamp](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/MATLAB%20Onramp(Mathworks).pdf)  

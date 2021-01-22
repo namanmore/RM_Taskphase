@@ -1,4 +1,4 @@
-# A Guide To All Folders Here:-  
+# A Guide To All FILES/Folders Here:-  
 * ### SEPARATE MARKDOWN FILES => Contains the Circuit Connections along with Codes for each Work.  
 
 * ### CIRCUITS => Contains the images of the Circuit Connections  

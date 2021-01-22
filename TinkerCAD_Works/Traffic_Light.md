@@ -1,0 +1,27 @@
+![yo](https://github.com/namanmore/RM_Taskphase/blob/main/TinkerCAD_Works/Circuits/Traffic_Light.PNG)  
+# CODE:  
+```
+int red_led=8,yellow_led=12,green_led=13;
+void setup()
+{
+  pinMode(red_led, OUTPUT);
+  pinMode(yellow_led, OUTPUT);
+  pinMode(green_led, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(red_led, HIGH);
+  digitalWrite(yellow_led, LOW);
+  digitalWrite(green_led, LOW);
+  delay(1000);
+  digitalWrite(red_led, LOW);
+  digitalWrite(yellow_led, HIGH);
+  digitalWrite(green_led, LOW);
+  delay(1000);
+  digitalWrite(red_led, LOW);
+  digitalWrite(yellow_led, LOW);
+  digitalWrite(green_led, HIGH);
+  delay(1000);
+}
+```

@@ -12,7 +12,9 @@
 
   * [Report 4: 04/01/2021 -> 10/01/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%204.pdf)  
 
-  * [Report 5: 11/01/2021 -> 17/01/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%205.pdf)    
+  * [Report 5: 11/01/2021 -> 17/01/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%205.pdf)  
+  
+  * [Report 6: 18/01/2021 -> 24/01/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%206.pdf)
 
 ## TinkerCAD Works  
   

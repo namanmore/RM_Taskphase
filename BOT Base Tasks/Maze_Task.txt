@@ -1,0 +1,136 @@
+int Ftrig=2,Fecho=3,Btrig=4,Becho=5,Ltrig=6,Lecho=7,Rtrig=8,Recho=9;
+double time,dist,x,y;
+char reference;
+void setup()
+{
+  pinMode(Ftrig, OUTPUT);
+  pinMode(Fecho, INPUT);
+  pinMode(Btrig, OUTPUT);
+  pinMode(Becho, INPUT);
+  pinMode(Ltrig, OUTPUT);
+  pinMode(Lecho, INPUT);
+  pinMode(Rtrig, OUTPUT);
+  pinMode(Recho, INPUT);
+  Serial.begin(9600);
+}
+double DistanceFromLeftSensor()
+{
+  digitalWrite(Ltrig,LOW);
+  delayMicroseconds(2);
+  digitalWrite(Ltrig,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(Ltrig,LOW);
+  time=pulseIn(Lecho,HIGH);
+  dist=time * (0.034/2);
+  return dist;
+}
+double DistanceFromRightSensor()
+{
+  digitalWrite(Rtrig,LOW);
+  delayMicroseconds(2);
+  digitalWrite(Rtrig,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(Rtrig,LOW);
+  time=pulseIn(Recho,HIGH);
+  dist=time * (0.034/2);
+  return dist;
+}
+double DistanceFromFrontSensor()
+{
+  digitalWrite(Ftrig,LOW);
+  delayMicroseconds(2);
+  digitalWrite(Ftrig,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(Ftrig,LOW);
+  time=pulseIn(Fecho,HIGH);
+  dist=time * (0.034/2);
+  return dist;
+}
+double DistanceFromRearSensor()
+{
+  digitalWrite(Btrig,LOW);
+  delayMicroseconds(2);
+  digitalWrite(Btrig,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(Btrig,LOW);
+  time=pulseIn(Becho,HIGH);
+  dist=time * (0.034/2);
+  return dist;
+}
+void StopBOT()
+{
+  //STOP THE BOT(STOP MOTORS(ALL LOW))
+}
+void Memory()
+{
+   if (reference=='F' ||reference=='B')
+   {
+     x=DistanceFromLeftSensor();
+     y=DistanceFromRightSensor();
+     if(x>10)
+       Move(30,90);
+     else
+       Move(30,270);
+   }
+  if (reference=='R' ||reference=='L')
+   {
+     x=DistanceFromFrontSensor();
+     y=DistanceFromRearSensor();
+    if(x>10)
+       Move(30,0);
+     else
+       Move(30,180);
+   }
+}
+  
+void Move(int v,int theta)
+{
+  if(theta==0)
+  {
+    reference = 'F';
+    while(dist>10)
+    {
+      //Move FORWARD Command(Motor HIGH & LOW);
+      DistanceFromFrontSensor(); 
+    }
+    StopBOT();
+    Memory();
+  }
+  if(theta==90)
+  {
+    reference = 'L';
+    while(dist>10)
+    {
+      //Move LEFT Command(Motor HIGH & LOW);
+      DistanceFromLeftSensor();    
+    }
+    StopBOT();
+    Memory();
+  }
+  if(theta==180)
+  {
+    reference = 'B';
+    while(dist>10)
+    {
+      //Move BACKWARDS Command(Motor HIGH & LOW);
+      DistanceFromRearSensor(); 
+    }
+    StopBOT();
+    Memory();
+  }
+  if(theta==270)
+  {
+    reference = 'R';
+    while(dist>10)
+    {
+      //Move RIGHT Command(Motor HIGH & LOW);
+      DistanceFromRightSensor();  
+    }
+    StopBOT();
+    Memory();
+  }   
+}
+void loop()
+{
+   Move(30,0); 
+}

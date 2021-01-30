@@ -46,7 +46,9 @@
 
   * [2 Wheel Differential Drive Task For (Forward, Back, Left Turn, Left Rotation, Right Turn, Right Rotation)](https://github.com/namanmore/RM_Taskphase/blob/main/TinkerCAD_Works/Motor_CommandMovements.md)  
   
-  * [Align Bot To Wall And Move Straight Until 20 cm, Using Two Ultrasonic Sensors on edges](https://github.com/namanmore/RM_Taskphase/blob/main/TinkerCAD_Works/Align%20Bot%20To%20Wall%20%26%20Move(2%20Ultrasonic%20Sensors).md)
+  * [Align Bot To Wall And Move Straight Until 20 cm, Using Two Ultrasonic Sensors on edges](https://github.com/namanmore/RM_Taskphase/blob/main/TinkerCAD_Works/Align%20Bot%20To%20Wall%20%26%20Move(2%20Ultrasonic%20Sensors).md)  
+  
+  * [Maze_Movement_Task (4 Ultrasonic Sensors)](https://github.com/namanmore/RM_Taskphase/blob/main/BOT%20Base%20Tasks/Maze_Task.txt)  
 
 ## C++ Learning Phase Programs  
 

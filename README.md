@@ -22,6 +22,8 @@
   
   * [Report 9: 01/02/2021 -> 07/02/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%209.pdf)  
   
+  * [Report 10: 08/02/2021 -> 14/02/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2010.pdf)  
+  
 ## My Works  
 
   * [Obstacle Avoiding BOT (First GIF)](https://github.com/namanmore/RM_Taskphase/blob/main/My%20Works/Obstacle%20avoiding1.gif)  

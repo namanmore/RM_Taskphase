@@ -77,3 +77,11 @@
   * [Arduino & C Programming](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/Arduino%20%26%20C%20Programming(Uni%20of%20Cal%2CIrvine).pdf)  
   
   * [MATLAB OnRamp](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/MATLAB%20Onramp(Mathworks).pdf)  
+
+  * [SIMULINK OnRamp](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/SIMULINK%20Onramp(Mathworks).pdf)  
+
+  * [Differential Equations For Engineers](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/Differential%20Equations%20for%20Engineers.pdf)  
+
+  * [Introduction To Electronics](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/Introduction%20To%20Electronics.pdf)  
+
+  * [Fusion 360(AutoDesk)](https://github.com/namanmore/RM_Taskphase/blob/main/Courses%20Completed/Fusion%20360(1)(AutoDesk).pdf)  

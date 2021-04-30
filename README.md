@@ -24,6 +24,12 @@
   
   * [Report 10: 08/02/2021 -> 14/02/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2010.pdf)  
   
+ ## Machine Learning  
+
+  * [MATLAB Assignments](https://github.com/namanmore/RM_Taskphase/tree/main/Machine%20Learning/Course%20MATLAB%20Programs)  
+
+  * [Python Implementations](https://github.com/namanmore/RM_Taskphase/tree/main/Machine%20Learning) 
+  
 ## My Works  
 
   * [Obstacle Avoiding BOT (First GIF)](https://github.com/namanmore/RM_Taskphase/blob/main/My%20Works/Obstacle%20avoiding1.gif)  
@@ -31,7 +37,7 @@
   * [Obstacle Avoiding BOT (Second GIF)](https://github.com/namanmore/RM_Taskphase/blob/main/My%20Works/Obstacle%20avoiding2.gif)  
   
   * [Bluetooth Controlled RC CAR](https://github.com/namanmore/RM_Taskphase/blob/main/My%20Works/Bluetooth%20Controlled%20RC%20car.gif)  
-
+ 
 ## TinkerCAD Works  
   
   * [Blinking an LED](https://github.com/namanmore/RM_Taskphase/blob/main/TinkerCAD_Works/Blinking.md) 

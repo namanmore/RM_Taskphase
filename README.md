@@ -28,7 +28,9 @@
 
   * [Report 12: 03/05/2021 -> 09/05/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2012.pdf)  
 
-  * [Report 13: 10/05/2021 -> 16/05/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2013.pdf)    
+  * [Report 13: 10/05/2021 -> 16/05/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2013.pdf)  
+
+  * [Report 14: 17/05/2021 -> 23/05/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2014.pdf)     
   
  ## Machine Learning  
 

@@ -3,34 +3,7 @@
   
 
 ## Progress Reports  
-  
-  * [Report 1: 01/12/2020 -> 06/12/2020](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%201.pdf)  
-
-  * [Report 2: 07/12/2020 -> 13/12/2020](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%202.pdf) 
-
-  * [Report 3: 14/12/2020 -> 20/12/2020](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%203.pdf)  
-  
-  * [Report 4: 21/12/2020 -> 27/12/2020](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%204.pdf)
-
-  * [Report 5: 04/01/2021 -> 10/01/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%205.pdf)  
-
-  * [Report 6: 11/01/2021 -> 17/01/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%206.pdf)  
-  
-  * [Report 7: 18/01/2021 -> 24/01/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%207.pdf)  
-  
-  * [Report 8: 25/01/2021 -> 31/01/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%208.pdf)  
-  
-  * [Report 9: 01/02/2021 -> 07/02/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%209.pdf)  
-  
-  * [Report 10: 08/02/2021 -> 14/02/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2010.pdf)  
-
-  * [Report 11: 25/04/2021 -> 02/05/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2011.pdf)  
-
-  * [Report 12: 03/05/2021 -> 09/05/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2012.pdf)  
-
-  * [Report 13: 10/05/2021 -> 16/05/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2013.pdf)  
-
-  * [Report 14: 17/05/2021 -> 23/05/2021](https://github.com/namanmore/RM_Taskphase/blob/main/Weekly_Reports/RM_Taskphase_Report%2014.pdf)     
+  [click here](https://github.com/namanmore/RM_Taskphase/tree/main/Weekly_Reports)
   
  ## Machine Learning  
 

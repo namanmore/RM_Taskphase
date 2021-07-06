@@ -13,9 +13,7 @@
   
 ## My Works  
 
-  * [Obstacle Avoiding BOT (First GIF)](https://github.com/namanmore/RM_Taskphase/blob/main/My%20Works/Obstacle%20avoiding1.gif)  
-  
-  * [Obstacle Avoiding BOT (Second GIF)](https://github.com/namanmore/RM_Taskphase/blob/main/My%20Works/Obstacle%20avoiding2.gif)  
+  * [Obstacle Avoiding BOT](https://github.com/namanmore/RM_Taskphase/blob/main/My%20Works/Obstacle%20avoiding1.gif)    
   
   * [Bluetooth Controlled RC CAR](https://github.com/namanmore/RM_Taskphase/blob/main/My%20Works/Bluetooth%20Controlled%20RC%20car.gif)  
  
